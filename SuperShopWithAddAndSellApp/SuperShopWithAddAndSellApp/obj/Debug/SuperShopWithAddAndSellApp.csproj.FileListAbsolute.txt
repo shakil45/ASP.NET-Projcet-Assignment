@@ -1,0 +1,37 @@
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csprojResolveAssemblyReference.cache
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+H:\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddItemUI.resources
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csprojResolveAssemblyReference.cache
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddItemUI.resources
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.SellItemUI.resources
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+E:\C#_Practice_BITM\05-08-2014\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\superShop.mdf
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\superShop_log.ldf
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.pdb
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csprojResolveAssemblyReference.cache
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.AddItemUI.resources
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.SellItemUI.resources
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.ShopUI.resources
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.Properties.Resources.resources
+K:\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.csproj.GenerateResource.Cache
+D:\FTFL-Learnings\ASP.net\practice file\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\bin\Debug\SuperShopWithAddAndSellApp.exe.config
+D:\FTFL-Learnings\ASP.net\practice file\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.exe
+D:\FTFL-Learnings\ASP.net\practice file\SuperShopWithAddAndSellApp\SuperShopWithAddAndSellApp\obj\Debug\SuperShopWithAddAndSellApp.pdb
